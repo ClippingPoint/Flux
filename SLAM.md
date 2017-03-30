@@ -9,6 +9,10 @@ Global vs Local reference frame
 [Conversion gps longitude latitude to (x,y) of local reference frame?](http://robotics.stackexchange.com/questions/10450/conversion-gps-longitude-latitude-to-x-y-of-local-reference-frame/10451)
 
 Localization
+  
+  * Position estimation
+
+  Lie Group -> derivative, exp, log, hat ... ([non-constraint](https://en.wikipedia.org/wiki/Constraint_(classical_mechanics))) -> eigen, sophus -> ROS Eigen, Sophus
 
 
 ### Quaternion
