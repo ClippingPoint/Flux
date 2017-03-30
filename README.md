@@ -15,3 +15,5 @@ Needs more information
 Pay attention to modification
 
 [Stanford Yih PhD Thesis, Steer by Wire](https://ddl.stanford.edu/sites/default/files/2005_Thesis_Yih_Steer_by_Wire_Implications_for_Vehicle_Handling_and_Safety.pdf)
+
+[PolySync CAN steering wheel angle](https://github.com/PolySync/OSCC/wiki/CAN-Gateway-%26-Control-CAN)
