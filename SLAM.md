@@ -26,6 +26,10 @@ Localization
 
 [Homogeneous Coordinate](https://en.wikipedia.org/wiki/Homogeneous_coordinates)
 
+[Homogenous Coordinates CHN Explanations](https://www.zhihu.com/question/19816504)
+
+References: Multiview Geometry in Computer Vision
+
 [Affine Transformation](https://en.wikipedia.org/wiki/Affine_transformation)
 
 More:
