@@ -11,8 +11,20 @@ Global vs Local reference frame
 Localization
 
 
-## References and learning resources
+### Quaternion
+
+[Quaternion Note (Chn)](http://www.itdadao.com/articles/c15a1140947p0.html)
+
+# References and learning resources
 
 [Awesome SLAM (CHN)](https://github.com/OpenSLAM/awesome-SLAM-list)
 
 [Xiang Gao SLAM book](https://github.com/gaoxiang12/slambook)
+
+[Xiang Gao SLAM_CN](http://www.slamcn.org/index.php/%E9%A6%96%E9%A1%B5)
+
+## Math
+
+[Vector, Matrix and Tensor Derivatives](http://cs231n.stanford.edu/vecDerivs.pdf)
+
+
