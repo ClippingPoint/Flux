@@ -19,6 +19,19 @@ Localization
 
 [Quaternion Note (Chn)](http://www.itdadao.com/articles/c15a1140947p0.html)
 
+
+## Camera Model
+
+[Transformation Matrix](https://en.wikipedia.org/wiki/Transformation_matrix)
+
+[Homogeneous Coordinate](https://en.wikipedia.org/wiki/Homogeneous_coordinates)
+
+[Affine Transformation](https://en.wikipedia.org/wiki/Affine_transformation)
+
+More:
+
+Perspective Projection
+
 # References and learning resources
 
 [Awesome SLAM (CHN)](https://github.com/OpenSLAM/awesome-SLAM-list)
